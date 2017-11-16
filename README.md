@@ -8,7 +8,10 @@ Web research: Angular 2 vs Reactjs and SAP UI5
 
 
 ---------------------------------------------------------------------------------------------------------------
+
+
 #New Technologie
+------------------------------------------------------------------------------------------------------------------------------
 Voor web research heb ik SAP UI5 en SAP Fiori onderzocht en enkele zaken geprogrammeerd.
 
 Recourses:
