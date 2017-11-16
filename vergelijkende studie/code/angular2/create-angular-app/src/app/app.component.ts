@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import {bootstrap} from  '@angular/platform-browser-dynamic';
+
 
 @Component({
   selector: 'app-root',
@@ -7,4 +9,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  id: number;
+  public state;
+
+  constructor(){
+    this.state = false;
+  }
 }
